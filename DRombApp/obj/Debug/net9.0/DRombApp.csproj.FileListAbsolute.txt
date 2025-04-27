@@ -1,0 +1,15 @@
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\bin\Debug\net9.0\DRombApp.exe
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\bin\Debug\net9.0\DRombApp.deps.json
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\bin\Debug\net9.0\DRombApp.runtimeconfig.json
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\bin\Debug\net9.0\DRombApp.dll
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\bin\Debug\net9.0\DRombApp.pdb
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.AssemblyInfoInputs.cache
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.AssemblyInfo.cs
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.csproj.CoreCompileInputs.cache
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.sourcelink.json
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.dll
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\refint\DRombApp.dll
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.pdb
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\DRombApp.genruntimeconfig.cache
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\DRombApp\obj\Debug\net9.0\ref\DRombApp.dll

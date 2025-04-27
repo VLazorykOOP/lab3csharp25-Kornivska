@@ -1,0 +1,15 @@
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\bin\Debug\net9.0\RhombusApp.exe
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\bin\Debug\net9.0\RhombusApp.deps.json
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\bin\Debug\net9.0\RhombusApp.runtimeconfig.json
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\bin\Debug\net9.0\RhombusApp.dll
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\bin\Debug\net9.0\RhombusApp.pdb
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.AssemblyInfoInputs.cache
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.AssemblyInfo.cs
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.csproj.CoreCompileInputs.cache
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.sourcelink.json
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.dll
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\refint\RhombusApp.dll
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.pdb
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\RhombusApp.genruntimeconfig.cache
+C:\Users\Alina Kornivska\lab3csharp25-Kornivska\RhombusApp\obj\Debug\net9.0\ref\RhombusApp.dll
